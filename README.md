@@ -1,0 +1,1 @@
+The files in this repository include all instances used in "**Formulations and Branch-and-Cut Algorithms for the Heterogeneous Fleet Vehicle Routing Problem with Soft Time Deadlines**" by Yulin Han and Hande Yaman.
